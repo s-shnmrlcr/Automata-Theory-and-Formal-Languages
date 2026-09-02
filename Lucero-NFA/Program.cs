@@ -94,7 +94,7 @@ class NFA
         Console.WriteLine("       NFA C-STYLE COMMENT CHECKER");
         
 
-        // Ask for 3 strings
+        // Ask for 2 strings
         for (int i = 1; i <= 2; i++)
         {
             Console.Write("\nEnter string " + i + ": ");
